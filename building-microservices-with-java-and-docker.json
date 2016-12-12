@@ -2,7 +2,7 @@
   "title": "Building microservices with Java and Docker2",
   "date": "January 05, 2016 @ 10:00AM PT",
   "paragraphs":[
-    "Companies know that they must build, deploy, and scale applications faster to be competitive. The monolithic architecture of many existing applications hampers innovation and increases time to market, so many companies are migrating to a microservice architecture. DevOps methodologies and container virtualization technologies like Docker don't only make it easier to implement microservices, they also reduce risk and speed up continuous deployment and delivery."
+    "Companie know that they must build, deploy, and scale applications faster to be competitive. The monolithic architecture of many existing applications hampers innovation and increases time to market, so many companies are migrating to a microservice architecture. DevOps methodologies and container virtualization technologies like Docker don't only make it easier to implement microservices, they also reduce risk and speed up continuous deployment and delivery."
   ],
   "goals": [
     "How you can use docker in day-to-day encapsulate repetitive task",
