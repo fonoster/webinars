@@ -1,0 +1,21 @@
+{
+  "title": "Building microservices with Java and Docker",
+  "date": "January 05, 2016 @ 10:00AM PT",
+  "paragraphs":[
+    "Companies know that they must build, deploy, and scale applications faster to be competitive. The monolithic architecture of many existing applications hampers innovation and increases time to market, so many companies are migrating to a microservice architecture. DevOps methodologies and container virtualization technologies like Docker don't only make it easier to implement microservices, they also reduce risk and speed up continuous deployment and delivery."
+  ],
+  "goals": [
+    "How you can use docker in day-to-day encapsulate repetitive task",
+    "How to begin thinking in a more distributed way",
+    "How to use Java and Docker in your next distributed application"
+  ],
+  "speakers": [
+    {
+      "name": "Pedro Sanders",
+      "title": "Founder at Fonoster, Inc.",
+      "twitter": "https://twitter.com/Sandedro",
+      "linkedin": "https://www.linkedin.com/in/pedro-sanders-719639111",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7vH3NRvsiBmZ0sBf7lqL5DNgyWjk-lW9_fxo8g2jAYxOBBZcuIQ"
+    }
+  ]
+}
