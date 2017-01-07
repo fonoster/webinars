@@ -1,0 +1,23 @@
+{
+  "title": "This is a test webinar",
+  "date": "201701051020",
+  "paragraphs":[
+    "To be competitive in today's market, companies must build, deploy, and scale applications faster. The monolithic architecture of legacy applications hinders innovation and increases time to market. Container virtualization technologies such as Docker can help implement microservices and speed up continuouss deployment and delivery."
+  ],
+  "goals": [
+    "The importance of container virtualization technologies",
+    "The first steps towards a microservices architecture",
+    "Shipping application and infrastructure together",
+    "How to use Java and Docker in the context of distributed applications"
+  ],
+  "speakers": [
+    {
+      "name": "Pedro Sanders",
+      "title": "Co-Founder at Fonoster, Inc.",
+      "twitter": "https://twitter.com/Sandedro",
+      "linkedin": "https://www.linkedin.com/in/pedro-sanders-719639111",
+      "photoUrl": "https://pbs.twimg.com/profile_images/739116013833314304/fP0SLREu_400x400.jpg"
+    }
+  ],
+  "videoUrl": "https://www.youtube.com/watch?v=yBHvyuEo_zA"
+}
